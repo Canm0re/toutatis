@@ -1,0 +1,15 @@
+# Credentials and sensitive data
+credentials.json
+token.json
+.env
+*.session
+.env*
+*.key
+*.pem
+*.token
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
